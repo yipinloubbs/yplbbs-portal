@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# 让 Google / Bing / Baidu / Yandex 都能抓
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: Baiduspider
+Allow: /
+User-agent: YandexBot
+Allow: /
+
+Sitemap: https://yipinloubbs.github.io/yplbbs-portal/sitemap.xml
