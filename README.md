@@ -1,8 +1,30 @@
-# 一品楼论坛 官方导航
+# 一品楼论坛 官方导航与长尾索引
 
-主域: https://yplbbs.lol/
-备用: https://yplbbs.cfd/
+本仓库提供 一品楼论坛 的 GitHub Pages 静态导航页，用于收录主域、备用域、永久域和城市服务长尾入口。
 
-域名被墙时本页 (https://yipinloubbs.github.io/yplbbs-portal/) 提供永久导航回主域 / 备用域。
+## 官方入口
 
-详见 [index.html](./index.html)。
+- 永久域: https://yplforum.com/
+- 主域: https://yplbbs.lol/
+- 备用域: https://yplbbs.cfd/
+- 本页重点索引: https://yplbbs.lol/seo
+
+## 长尾入口
+
+- [上海楼凤验证](https://yplbbs.lol/seo/%E4%B8%8A%E6%B5%B7-%E6%A5%BC%E5%87%A4) — 主站高意图长尾入口
+- [深圳桑拿攻略](https://yplbbs.lol/seo/%E6%B7%B1%E5%9C%B3-%E6%A1%91%E6%8B%BF) — 承接本地体验搜索
+- [北京洗浴帖子](https://yplbbs.lol/seo/%E5%8C%97%E4%BA%AC-%E6%B4%97%E6%B5%B4) — 城市服务组合页
+- [成都QM交流](https://yplbbs.lol/seo/%E6%88%90%E9%83%BD-QM) — 西南城市长尾入口
+
+## 站点说明
+
+一品楼论坛 (国内场所专区) — 聚焦本地楼凤 / 桑拿 / 验证 / 攻略 的中文社区。每天有用户更新各城市真实体验, 注册免费、不需要密码、邮箱登录。
+
+### 一品楼论坛主要收录什么内容？
+
+主要收录国内城市的公开论坛帖子、体验记录、场所讨论和服务标签页，适合按城市查找真实用户更新。
+### 主域打不开时怎么访问？
+
+优先收藏永久域，也可以从本 GitHub Pages 导航页跳转到主域或备用域。
+
+Last updated: 2026-06-02
